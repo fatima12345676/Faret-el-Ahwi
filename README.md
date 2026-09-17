@@ -60,8 +60,8 @@ No turns, no waiting, no boredom — just chaos, laughter, and a very tense coff
 
 ```bash
 # Clone the repository
-git clone https://github.com/fatima12345676/Qahwa.git
-cd Qahwa
+git clone https://github.com/fatima12345676/Faret-el-Ahwi.git
+cd Faret-el-Ahwi
 
 # Install dependencies
 # Option 1 — with npm (recommended, comes with Node.js)
