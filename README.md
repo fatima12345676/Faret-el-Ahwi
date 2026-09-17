@@ -64,7 +64,6 @@ git clone https://github.com/fatima12345676/Faret-el-Ahwi.git
 cd Faret-el-Ahwi
 
 # Install dependencies
-# Option 1 — with npm (recommended, comes with Node.js)
 npm install
 
 ```
